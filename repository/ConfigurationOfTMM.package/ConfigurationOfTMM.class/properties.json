@@ -1,0 +1,14 @@
+{
+	"category" : "ConfigurationOfTMM",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"LastVersionLoad" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"project" ],
+	"name" : "ConfigurationOfTMM",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

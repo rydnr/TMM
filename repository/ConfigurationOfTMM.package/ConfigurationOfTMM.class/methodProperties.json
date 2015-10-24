@@ -1,0 +1,18 @@
+{
+	"class" : {
+		"baseConfigurationClassIfAbsent:" : "YanniChiu 4/26/2015 16:40",
+		"ensureMetacello" : "YanniChiu 4/26/2015 16:41",
+		"ensureMetacelloBaseConfiguration" : "YanniChiu 4/26/2015 16:41",
+		"isMetacelloConfig" : "YanniChiu 4/26/2015 16:40",
+		"load" : "YanniChiu 4/26/2015 16:39",
+		"loadBleedingEdge" : "YanniChiu 4/26/2015 16:39",
+		"loadDevelopment" : "YanniChiu 4/26/2015 16:40",
+		"project" : "YanniChiu 4/26/2015 16:39" },
+	"instance" : {
+		"baseline1:" : "YanniChiu 4/26/2015 21:28",
+		"development:" : "YanniChiu 4/27/2015 22:29",
+		"project" : "YanniChiu 4/26/2015 16:34",
+		"stable:" : "YanniChiu 5/1/2015 01:56",
+		"version1:" : "YanniChiu 4/27/2015 01:01",
+		"version2:" : "YanniChiu 5/1/2015 01:56",
+		"version3:" : "YanniChiu 5/1/2015 01:55" } }
